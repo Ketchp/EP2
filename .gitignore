@@ -1,5 +1,6 @@
 .idea
 cmake-build-debug
+__pycache__
 
 # author problems of other students
 aut_others
